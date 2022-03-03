@@ -4,4 +4,5 @@ Szolgáltatásai tartalmazza: tárolás, mesterséges intelligencia, tárolás, 
 
 A platform forráskódja zárt, viszont a szoftverfejlesztői csomag (SDK) nyílt forráskódú.  
 
-Linux felhőszolgáltatások
+Linux felhőszolgáltatások  
+A ownCloud egy kliens-szerver szoftvercsomag fájltárhely-szolgáltatások létrehozására és használatára. Az ownCloud funkcionálisan hasonlít a széles körben használt Dropboxhoz. Az elsődleges különbség az ownCloud és a Dropbox között az, hogy az ownCloud elsősorban szerverszoftver. Az ownCloud Server Edition ingyenes és nyílt forráskódú, így bárki ingyenesen telepítheti és működtetheti saját privát linux alapú szerverén.
