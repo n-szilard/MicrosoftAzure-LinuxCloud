@@ -14,6 +14,9 @@ Felhőalapú platformszolgáltatás, amely keretrendszert biztosít a fejlesztő
 ## Software as a Service (SaaS)
 A szoftver, mint szolgáltatás egy szoftverlicenc és szállítási modell, amelyben a szoftver licencelése előfizetéses alapon történik, és központilag hostolt. A SaaS más néven on-demand (azaz igény szerinti) szoftver és webalapú/web-hosztolt szoftver.
 
+## Function as a Service (FaaS)
+A Function as a service (FaaS) a felhőalapú számítástechnikai szolgáltatások olyan kategóriája, amely olyan platformot biztosít, amely lehetővé teszi az ügyfelek számára az alkalmazások funkcionalitásának fejlesztését, futtatását és kezelését anélkül, hogy bonyolult lenne az infrastruktúra kiépítése és karbantartása, amely általában az alkalmazások fejlesztéséhez és elindításához kapcsolódik. A „szerver nélküli” architektúra elérésének egyik módja egy alkalmazás elkészítése ezen modell szerint, és általában mikroszolgáltatási alkalmazások építésekor használják. Legelterjetteb szolgáltatója az AWS, de a Microsoft Azure is nyújt Function as a Service szolgáltatásokat.
+
 # Linux felhőszolgáltatások  
 ## ownCloud
 A ownCloud egy kliens-szerver szoftvercsomag fájltárhely-szolgáltatások létrehozására és használatára. Az ownCloud funkcionálisan hasonlít a széles körben használt Dropboxhoz. Az elsődleges különbség az ownCloud és a Dropbox között az, hogy az ownCloud elsősorban szerverszoftver. Az ownCloud Server Edition ingyenes és nyílt forráskódú, így bárki ingyenesen telepítheti és működtetheti saját privát linux alapú szerverén.  
