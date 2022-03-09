@@ -21,3 +21,8 @@ A Function as a service (FaaS) a felhőalapú számítástechnikai szolgáltatá
 ## ownCloud
 A ownCloud egy kliens-szerver szoftvercsomag fájltárhely-szolgáltatások létrehozására és használatára. Az ownCloud funkcionálisan hasonlít a széles körben használt Dropboxhoz. Az elsődleges különbség az ownCloud és a Dropbox között az, hogy az ownCloud elsősorban szerverszoftver. Az ownCloud Server Edition ingyenes és nyílt forráskódú, így bárki ingyenesen telepítheti és működtetheti saját privát linux alapú szerverén.  
 Az owncloud csak szoftvertermék és nem kínál felhő tárhelyet. A felhasználó saját eszközén kell biztosítani a tárhely kapacitást.
+
+## Nextcloud
+A Nextcloud egy kliens-szerver szoftvercsomag fájltárhely-szolgáltatások létrehozására és használatára. Vállalati használatra kész, átfogó támogatási lehetőségekkel. Ingyenes és nyílt forráskódú szoftverről lévén szó, bárki telepítheti és működtetheti saját privát szervereszközén.
+
+A Nextcloud funkcionálisan hasonló a Dropboxhoz, az Office 365-höz vagy a Google Drive-hoz, ha a Collabora Online vagy az OnlyOffice irodai programcsomagokkal együtt használják. A felhőben vagy a helyszínen is tárolható.
